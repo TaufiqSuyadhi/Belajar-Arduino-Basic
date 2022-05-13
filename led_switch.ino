@@ -33,4 +33,3 @@ void loop() {
   if(kondisi_swt2 == LOW) {digitalWrite(led_2, LOW);}
   if(kondisi_swt3 == LOW) {digitalWrite(led_3, LOW);}
 }
-

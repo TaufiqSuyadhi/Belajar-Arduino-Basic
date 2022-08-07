@@ -1,7 +1,7 @@
 # Belajar Arduino Basic (Dasar/Pemula)
 Repository materi belajar dan proyek dasar embedded systems menggunakan Arduino board dan Arduino IDE.
 
-Daftar materi belajar Arduino Basic (Pemula):
+## Daftar materi belajar Arduino Basic (Pemula):
 
 [1. Apa dan Mengapa Arduino?](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/tree/main/Apa%20dan%20Mengapa%20Arduino)
 

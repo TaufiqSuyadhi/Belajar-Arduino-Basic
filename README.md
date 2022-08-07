@@ -1,2 +1,2 @@
-# Proyek Arduino Sederhana
-Repository kumpulan proyek embedded systems sederhana menggunakan Arduino IDE
+# Belajar Arduino Dasar
+Repository materi belajar dan proyek dasar embedded systems menggunakan Arduino board dan Arduino IDE.

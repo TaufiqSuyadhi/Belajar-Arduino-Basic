@@ -1,3 +1,3 @@
-# Link video tutorial Arduino - Display - LED di Youtube:
+# Link video, Arduino - Display - LED:
 
 www.youtube.com

@@ -15,6 +15,7 @@ Repository materi belajar dan proyek dasar embedded systems menggunakan Arduino 
 
 [6. Cara Download & Instalasi Library Pada Arduino IDE](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/tree/main/Cara%20Download%20dan%20Install%20Library)
 
-[7. ...]
-
-[8. ...]
+## Aplikasi Dasar (Pemula)
+[1. Arduino & LED](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/tree/main/1%20-%20Arduino%20-%20Display%20-%20LED)
+[2. coming soon]()
+[3. coming soon]()

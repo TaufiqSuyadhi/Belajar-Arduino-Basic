@@ -1,3 +1,3 @@
-# Link video, Board Arduino dan Arduino IDE:
+# Board Arduino dan Arduino IDE
 
-https://www.youtube.com/watch?v=Xv_odExu3ik&list=PLy3VBpgdBFy6QVOCj-ix_WwMahYYBEswy&index=2
+[Click untuk melihat video tutorialnya!](https://www.youtube.com/watch?v=Xv_odExu3ik&list=PLy3VBpgdBFy6QVOCj-ix_WwMahYYBEswy&index=2)

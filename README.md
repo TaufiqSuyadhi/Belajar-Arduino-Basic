@@ -17,5 +17,7 @@ Repository materi belajar dan proyek dasar embedded systems menggunakan Arduino 
 
 ## Aplikasi Dasar (Pemula)
 [1. Arduino & LED](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/tree/main/1%20-%20Arduino%20-%20Display%20-%20LED)
+
 [2. coming soon]()
+
 [3. coming soon]()

@@ -9,7 +9,7 @@ Pada proyek ini akan dipelajari dan didemonstrasikan cara mengendalikan (drive) 
 ## Skematik & Wiring
 ![schematics-arduino-nano-33iot-led](https://user-images.githubusercontent.com/11900221/232986811-484db281-6485-4afb-9737-f8154fbf7f80.jpg)
 
-## Link Program
+## Contoh Program
 [Program 1: led_kedip1.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/led_kedip1.ino)
 
 [Program 2: led_sebaris1.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/led_sebaris1.ino)

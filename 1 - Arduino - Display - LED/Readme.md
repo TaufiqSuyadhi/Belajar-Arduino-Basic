@@ -11,7 +11,9 @@ Pada proyek ini akan dipelajari dan didemonstrasikan cara mengendalikan (drive) 
 
 ## Link Program
 [Program 1: led_kedip1.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/led_kedip1.ino)
+
 [Program 2: led_sebaris1.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/led_sebaris1.ino)
+
 [Program 3: led_sebaris2.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/led_sebaris2.ino)
 
 ## Video link

@@ -10,11 +10,11 @@ Pada proyek ini akan dipelajari dan didemonstrasikan cara mengendalikan (drive) 
 ![schematics-arduino-nano-33iot-led-active-low-robonesia jpg](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/ab42968b-6950-4339-9da6-a6732f5d067c)
 
 ## Contoh Program
-[Program 1: program1_led.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program1_led.ino)
+[Program 1](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program1_led.ino)
 
-[Program 2: program2_led.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program2_led.ino)
+[Program 2](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program2_led.ino)
 
-[Program 3: program3_led.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program3_led.ino)
+[Program 3](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program3_led.ino)
 
 ## Video Tutorial
 [Arduino Project #1 - Mengendalikan LED Menggunakan Board Arduino Nano 33 IoT](https://www.youtube.com/watch?v=Qbj1Y0eWRtE&list=PLy3VBpgdBFy6QVOCj-ix_WwMahYYBEswy&index=7)

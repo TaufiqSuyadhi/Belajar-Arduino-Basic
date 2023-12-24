@@ -7,7 +7,7 @@ Pada proyek ini akan dipelajari dan didemonstrasikan cara mengendalikan (drive) 
 ![Kebutuhan proyek - Arduino   LED](https://user-images.githubusercontent.com/11900221/232988569-ab0490bc-989c-48a1-bfa0-b493c4fe1832.png)
 
 ## Skematik & Wiring
-![schematics-arduino-nano-33iot-led](https://user-images.githubusercontent.com/11900221/232986811-484db281-6485-4afb-9737-f8154fbf7f80.jpg)
+![schematics-arduino-nano-33iot-led-active-low-robonesia jpg](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/ab42968b-6950-4339-9da6-a6732f5d067c)
 
 ## Contoh Program
 [Program 1: program1_led.ino](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program1_led.ino)

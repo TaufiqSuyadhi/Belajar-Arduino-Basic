@@ -17,5 +17,5 @@ Pada proyek ini akan dipelajari dan didemonstrasikan cara mengendalikan (drive) 
 [Program 3](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/1%20-%20Arduino%20-%20Display%20-%20LED/program3_led.ino)
 
 ## Tutorial
-- [Video tutorial:](https://www.youtube.com/watch?v=Qbj1Y0eWRtE&list=PLy3VBpgdBFy6QVOCj-ix_WwMahYYBEswy&index=7)
-- [Artikel tutorial:](https://robonesia.com/index.php/2023/12/24/apa-dan-mengapa-arduino/)
+- [Video tutorial](https://www.youtube.com/watch?v=Qbj1Y0eWRtE&list=PLy3VBpgdBFy6QVOCj-ix_WwMahYYBEswy&index=7)
+- [Artikel tutorial](https://robonesia.com/index.php/2023/12/24/apa-dan-mengapa-arduino/)

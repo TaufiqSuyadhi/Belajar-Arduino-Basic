@@ -7,8 +7,8 @@ Pada proyek ini kita mempelajari dan mendemonstrasikan cara mengendalikan operas
 ![kebutuhan-proyek-lcd-i2c](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/72c29c87-3768-483b-819b-2bdf64432ea1)
 
 ## Library yang Dibutuhkan
-Wire.h (Tersedia secara default di dalam software Arduino IDE)
-LiquidCrystal_I2C.h ([Click link ini!](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c))
+- Wire.h (Tersedia secara default di dalam software Arduino IDE)
+- LiquidCrystal_I2C.h ([Click link ini!](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c))
 
 ## Skematik & Wiring
 ![skematik-wiring  Interfacing LCD via I2C](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/e30659ab-b084-4bff-85a7-a63b5b293645)

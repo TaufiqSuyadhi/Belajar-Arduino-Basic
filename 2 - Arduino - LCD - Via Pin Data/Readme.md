@@ -6,6 +6,9 @@ Pada proyek ini kita akan mempelajari dan mendemonstrasikan cara mengendalikan o
 ## Kebutuhan Proyek
 ![kebutuhan proyek - Interfacing with 16x2 LCD](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/2d9555a4-6a16-4d6c-ae0e-dfad374802ed)
 
+## Kebutuhan Library
+LiquidCrystal.h (Tersedia secara default di dalam software Arduino IDE)
+
 ## Skematik & Wiring
 ![schematics-arduino-nano-33iot-lcd](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/assets/11900221/df55da1b-b9cb-4315-a032-5384874260d0)
 

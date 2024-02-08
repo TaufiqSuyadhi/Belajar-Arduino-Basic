@@ -20,5 +20,5 @@ Dalam proyek ini, diperlukan program tambahan untuk membaca I2C bus address, yai
 - [Program 1](https://github.com/TaufiqSuyadhi/Belajar-Arduino-Basic/blob/main/4%20-%20Arduino%20-%20PushButton/pushButton_lcdi2c_led.ino)
 
 ## Tutorial
-- [Video tutorial]()
+- [Video tutorial](https://www.youtube.com/watch?v=Osemfet_Ldg)
 - [Artikel tutorial]()

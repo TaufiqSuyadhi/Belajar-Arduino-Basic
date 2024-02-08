@@ -1,4 +1,4 @@
-# Arduino & LCD (Interface via Pin I2C - SD+SCL)
+# Arduino & LCD (Interface via Pin I2C)
 
 ## Deskripsi Proyek
 Pada proyek ini kita mempelajari dan mendemonstrasikan cara mengendalikan operasi komponen Liquid Crystal Display atau LCD menggunakan mikrokontroler yang tertanam pada board Arduino, dengan antar-muka via fitur komunikasi I2C menggunakan modul I2C serial LCD text.
